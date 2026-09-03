@@ -9,7 +9,7 @@ Package license: GPL-2.0-or-later
 
 Summary: Open Source H.265/HEVC video encoder
 
-Development: https://bitbucket.org/multicoreware/x265_git
+Development: https://github.com/Multicorewareinc/x265/
 
 Documentation: https://x265.readthedocs.io/
 
